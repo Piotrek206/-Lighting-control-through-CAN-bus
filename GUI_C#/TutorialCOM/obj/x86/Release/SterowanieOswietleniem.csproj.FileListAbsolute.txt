@@ -1,0 +1,18 @@
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\TutorialCOM.exe
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\TutorialCOM.pdb
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\SterowanieOswietleniem.csprojResolveAssemblyReference.cache
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\SterowanieOswietleniem.SterowanieOswietleniem.resources
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\SterowanieOswietleniem.csproj.GenerateResource.Cache
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\SterowanieOswietleniem\TutorialCOM\bin\Release\TutorialCOM.exe
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\SterowanieOswietleniem\TutorialCOM\bin\Release\TutorialCOM.pdb
+C:\Users\Piotr\Desktop\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\TutorialCOM.exe
+C:\Users\Piotr\Desktop\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\TutorialCOM.pdb
+C:\Users\Piotr\Desktop\SterowanieOswietleniem\TutorialCOM\bin\Release\TutorialCOM.exe
+C:\Users\Piotr\Desktop\SterowanieOswietleniem\TutorialCOM\bin\Release\TutorialCOM.pdb
+C:\Users\Piotr\Desktop\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\SterowanieOswietleniem.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\SterowanieOswietleniem.SterowanieOswietleniem.resources
+C:\Users\Piotr\Desktop\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+C:\Users\Piotr\Desktop\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\SterowanieOswietleniem.csproj.GenerateResource.Cache
+C:\Users\piotr\Downloads\Semestr 5\Mikroprocki\Projekt\Projekt - kod\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\TutorialCOM.exe
+C:\Users\piotr\Downloads\Semestr 5\Mikroprocki\Projekt\Projekt - kod\SterowanieOswietleniem\TutorialCOM\obj\x86\Release\TutorialCOM.pdb

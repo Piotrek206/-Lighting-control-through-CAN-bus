@@ -1,0 +1,25 @@
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\bin\Release\TutorialCOM.exe
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\bin\Release\TutorialCOM.pdb
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Release\ResolveAssemblyReference.cache
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.tutorialCOM.resources
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Release\GenerateResource.read.1.tlog
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Release\GenerateResource.write.1.tlog
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.exe
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.pdb
+C:\Users\piotr\Downloads\tutorialcom\TutorialCOM\TutorialCOM\bin\Release\TutorialCOM.exe
+C:\Users\piotr\Downloads\tutorialcom\TutorialCOM\TutorialCOM\bin\Release\TutorialCOM.pdb
+C:\Users\piotr\Downloads\tutorialcom\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.csprojResolveAssemblyReference.cache
+C:\Users\piotr\Downloads\tutorialcom\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.tutorialCOM.resources
+C:\Users\piotr\Downloads\tutorialcom\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+C:\Users\piotr\Downloads\tutorialcom\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.csproj.GenerateResource.Cache
+C:\Users\piotr\Downloads\tutorialcom\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.exe
+C:\Users\piotr\Downloads\tutorialcom\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.pdb
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.exe
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.pdb
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.csprojResolveAssemblyReference.cache
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.tutorialCOM.resources
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\TutorialCOM\TutorialCOM\obj\x86\Release\TutorialCOM.csproj.GenerateResource.Cache
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\TutorialCOM\TutorialCOM\bin\Release\TutorialCOM.exe
+C:\Users\piotr\Documents\Visual Studio 2015\Projects\projekt\TutorialCOM\TutorialCOM\bin\Release\TutorialCOM.pdb
