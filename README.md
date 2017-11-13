@@ -50,5 +50,75 @@ Myślę, że dzięki projektowi lepiej poznaliśmy mechanizmy jakie pozwalają p
 
 
 # EN:
+Lighting control via CAN bus
 
-TODO :P
+    Assumptions and objectives of the project
+
+The topic of the project will be implementation of the lighting controller via the CAN bus. The following will be used:
+
+    Arduino Leonardo,
+    two Arduino UNO,
+    Three CAN SPI MCP2515 modules including an MCP2515 controller and a CAN transceiver TJA1050 to connect the microcontroller to the CAN bus,
+    8 LEDs (two white diodes simulating the front lights of the car, four orange colors simulating the direction indicators and two red color simulating the rear lights of the vehicle)
+	
+    Light intensity sensor, eg: BH1750 (will be connected to the microcontroller and depending on the intensity of the light will light / extinguish the light on the front of the vehicle)
+	
+
+In order to control the lighting we will make a suitable application for a PC in .NET technology which will enable each of the diodes or eg turn the direction indicators.
+ In order to program the above application we used the Microsoft Visual Studio 2015 environment and the C # programming language.
+
+    Work plan
+
+    Purchase the necessary items
+
+    Configuration of the Arduino Leonardo microcontroller for easy running of sample programs and Arduino UNO configuration.
+
+    Establishment of connection between Leonardo and UNO, without CAN bus
+
+    Program microcontrollers to properly illuminate the diodes (flashing "turn signals", turning on and off the lights "in front and back").
+
+    Create a CAN bus and create communication through this bus.
+
+    Integration of CAN communication with lights lit.
+
+    Adding both sides of communication so that Leonardo can receive information from UNO (for example, a burnt light bulb)
+
+    Connection of light sensor under Arduino UNO and use it for automatic mode.
+
+    Creation of Leonardo communication with a laptop using a serial port.
+
+    Writing application with user interface for controlling and extinguishing LEDs.
+
+    Summary:
+
+While doing this project, we have learned many new technologies. We learned about the operation and operation of the CAN bus, the operation of the BH1750 light sensor, communication between several microcontrollers, and we learned about the possibility of connecting the microcontroller and the laptop through the serial port.
+ We also encountered many problems.
+ The first was the erroneous purchase of Arduino Mini Pro chips with ATmega328 microprocessor due to the outdated technology and not compatible with the example of Windows 10 we were working on, unfortunately this board was connected by a programmer which did not have an automatic "reset" We decided to replace these boards with Arduino UNO boards.
+ Another problem was initially insufficient knowledge of the field of CAN bus operation and hardware. We bought CAN transceivers, which proved to be incorrect, because we also need CAN controllers for these arduino boards to control the Bus.
+ Therfore we had to buy CAN modules with built-in controller and transceiver. Happily, we finally managed to make communication with the Canbus and step by step we finished our project.
+ I think thanks to the project we got to know the mechanisms that allow us to transfer data to the main controller in cars .
+ In the future it would be possible to extend our project with additional functionality such as connecting the clocks used in one of the cars and showing various errors or for example, .
+
+    Literature:
+
+    https://www.youtube.com/watch?v=sw3ADKPo1Uo - a video showing the effect of a tile very close to the theme of our project
+
+    http://plc-rc.pl/templates/images/files/995/1474871437-can-module.pdf - CAN module diagram
+
+    http://en.wikipedia.org/wiki/File:Component.htm
+
+    http://abc-rc.pl/templates/images/files/995/1474871397-tja1050.pdf - CAN transceiver documentation built into CAN module
+
+    https://www.arduino.cc/en/Main/ArduinoBoardUno - A full description of Arduino UNO
+
+    https://www.arduino.cc/en/Reference/HomePage - description of the Arduino programming language
+
+    https://www.arduino.cc/en/Main/ArduinoBoardLeonardo - Full description of the album Arduino Leonardo
+
+    https://github.com/claws/BH1750 - BH1750 light sensor support library
+
+    http://en.wikipedia.org/w/index.php?title=File:Blue Light Sensor Specifications
+
+    http://ep.com.pl/files/4190.pdf - basic information about the CAN network
+
+    http://canbus.pl/index.php?id=2 - More detailed information on CAN bus operation
